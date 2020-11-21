@@ -2,7 +2,7 @@ import java.lang.Math;
 import java.util.*;
 import java.io.*;
 
-public class hw3{
+public class piecewisePolynomial{
 	public static void main(String[] args)throws Exception{
 		int degree = 1;
 		//double a =-1;
