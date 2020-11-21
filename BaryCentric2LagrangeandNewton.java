@@ -2,7 +2,7 @@ import java.lang.Math;
 import java.util.*;
 import java.io.*;
 
-public class hw2{
+public class BaryCentric2LagrangeandNewton{
 	
 	public static void main(String[] args)throws Exception{
 	
