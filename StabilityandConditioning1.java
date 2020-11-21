@@ -3,7 +3,7 @@ import java.security.SecureRandom;
 import java.io.*;
 import java.util.Scanner;
 
-public class hw1{
+public class StabilityandConditioning1{
 	public static void main(String[] args)throws Exception{
 		double floatmachineEpsilon = 0.0000000596; //stored as double since java automatically assumes decimals are double.
 
